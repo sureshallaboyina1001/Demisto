@@ -1,0 +1,9 @@
+{
+	"customer": "Wipro - Evaluation",
+	"validTil": "2018 Oct 19",
+	"permittedUsers": 20,
+	"sig": "AU8uZfOMWEn5lq7ow9EhJG8sYzUAGZ6j7MCDczyodVhVDfYrJwlYiL5dlhNiwicQL7pbzOsXNCLUMvFPIgAMylXxjIUPDKzSs1pD4t/Uu2zX1PD7btw9wPzpQP9htJCV3/jXH2BgibJZclvNP3y1iOViythUKglJhJqgh1FftyY=",
+	"sigv2": "R4mvZcTCX5AXwMeSq9OKS3frVToS4rmrLjwJ50/EPZ3DZajTaJY6FpKAFZCLnSU3meQcGHbEheDQSIAeZcB1NHZvFVdKLscY8+9tLysSDGephPctdAuJlfXhmrzEhlxX+QEttUewnmuQkOKG0qG9yDftnaTSe3GGYMYk9H6NlgU=",
+	"type": "evaluation",
+	"id": "CUID34d3e93f163bc6e1c56fa66b7296106fc9a4d6649d1f70c9d14277512f7d6ac0CUID"
+}
